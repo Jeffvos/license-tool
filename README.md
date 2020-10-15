@@ -1,6 +1,6 @@
 # Systems-license-tools
 
-Checks for license license validity, currently for:
+Python tool checks for license license validity, currently for:
 
 
 *Jira - Plugins/Apps
