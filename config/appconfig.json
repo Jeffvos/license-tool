@@ -1,0 +1,18 @@
+{
+    "instances": {
+
+        "jira":{
+            "name":"Jira",
+            "user":"jira-user",
+            "pass":"jira-pass",
+            "baseUrl":"jira-url"
+    },
+        "confluence": {
+            "name":"Confluence",
+            "user":"confluence-user",
+            "pass":"confluence-pass",
+            "baseUrl": "confluence-url"
+    }
+    },
+    "mongo-uri": "mongo-url-and-port"
+}
